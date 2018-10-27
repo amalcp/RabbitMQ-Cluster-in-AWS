@@ -21,5 +21,5 @@ Please note the CUP metrics to scale up & down of your auto scaling group
 ### Using AWS Console
 1. Login to AWS console & navigate to CloudFormation template 
 2. Create Stack 
-3. Upload the `rabbitmq-ct-template.json`
+3. Upload the `rabbitmq-cf-template.json`
 4. Copy the values from output tab
