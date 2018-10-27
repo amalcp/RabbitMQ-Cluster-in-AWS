@@ -14,7 +14,13 @@ Please note the CUP metrics to scale up & down of your auto scaling group
   - Need to change default culuster admin password? 
         - Update the userdata in the launch config
 - Look at `cloud-config.yml` to see the user data
-    
+
+#### Port Numbers 
+- 4369: epmd
+- 5672: AMQP
+- 15672: HTTP (API & Dashboard)
+- 8883: Secure-mqtt
+
 ## Spin Up the Cluster
 
 
