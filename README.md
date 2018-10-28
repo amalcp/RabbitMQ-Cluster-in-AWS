@@ -1,8 +1,11 @@
+
+
+<!-- ![alt text](https://github.com/amalcp/RabbitMQ-Cluster-in-AWS/blob/master/imgs/RMQ.png) -->
+<p align="center"> 
+<img src="https://github.com/amalcp/RabbitMQ-Cluster-in-AWS/blob/master/imgs/RMQ.png">
+</p>
+
 # AWS RabbitMQ Cluster with Loadbalancer
-
-![alt text](https://github.com/amalcp/RabbitMQ-Cluster-in-AWS/blob/master/imgs/RMQ.png)
-
-
 This is AWS cloudformation template will create your entaire stack with zero down time, ie, elb with auto scaling group.
 Please note the CUP metrics to scale up & down of your auto scaling group
   
